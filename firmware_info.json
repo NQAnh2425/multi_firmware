@@ -5,7 +5,7 @@
   },
   "esp32_wroom": {
     "version": "1.0.0",
-    "url": "https://raw.githubusercontent.com/Tên_Tài_Khoản/my-multi-firmware/main/esp32_wroom/firmware.bin"
+    "url": "https://github.com/NQAnh2425/multi_firmware/tree/main/esp32_wroom"
   },
   "stm32f103": {
     "version": "1.2.0",
