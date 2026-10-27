@@ -1,18 +1,18 @@
 {
   "esp32s3": {
-    "version": "1.0.1",
-    "url": "https://raw.githubusercontent.com/Tên_Tài_Khoản/multi-firmware/main/esp32s3/firmware.bin"
+    "version": "1.0.0",
+    "url": "https://github.com/NQAnh2425/multi_firmware/blob/main/esp32s3/firmware_esp32s3.bin"
   },
   "esp32_wroom": {
     "version": "1.0.0",
-    "url": "https://github.com/NQAnh2425/multi_firmware/tree/main/esp32_wroom"
+    "url": "https://github.com/NQAnh2425/multi_firmware/blob/main/esp32_wroom/firmware_esp32wroom.bin"
   },
   "stm32f103": {
-    "version": "1.2.0",
-    "url": "https://raw.githubusercontent.com/Tên_Tài_Khoản/my-multi-firmware/main/stm32f103/firmware.bin"
+    "version": "1.0.0",
+    "url": "https://github.com/NQAnh2425/multi_firmware/blob/main/stm32f103c8t6/firmware_stm32f103c8t6.bin"
   },
   "stm32f405": {
-    "version": "1.1.0",
-    "url": "https://raw.githubusercontent.com/Tên_Tài_Khoản/my-multi-firmware/main/stm32f405/firmware.bin"
+    "version": "1.0.0",
+    "url": "https://github.com/NQAnh2425/multi_firmware/blob/main/stm32f405rgt6/firmware_stm32f405rgt6.bin"
   }
 }
