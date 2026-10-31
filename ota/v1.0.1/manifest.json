@@ -5,6 +5,5 @@
   "total_chunks": 1,
   "header_size": 24,
   "magic": "0x4F544132",
-  "chunk_name": "chunk_{:04d}.bin",
   "sha256": "bb741f1da95975d59a67ce017c1f16b0cff42dc9908b53680f9a788b8b03b4b1"
 }
