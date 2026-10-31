@@ -1,10 +1,10 @@
 {
   "version": "1.0.1",
-  "size": 8543,
+  "size": 8544,
   "chunk_size": 16384,
   "total_chunks": 1,
   "header_size": 24,
   "magic": "0x4F544132",
   "chunk_name": "chunk_{:04d}.bin",
-  "sha256": "69914274602a0b5fc777c17e98de3c58e196f7c8ed0cd388d0ce2f98f588ab01"
+  "sha256": "bb741f1da95975d59a67ce017c1f16b0cff42dc9908b53680f9a788b8b03b4b1"
 }
