@@ -3,7 +3,8 @@
   "size": 8544,
   "chunk_size": 16384,
   "total_chunks": 1,
-  "header_size": 24,
+  "header_size": 20,
+  "trailer_size": 4,
   "magic": "0x4F544132",
   "chunks": [
     "chunk_0000.bin"
