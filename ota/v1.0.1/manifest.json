@@ -1,8 +1,8 @@
 {
   "version": "1.0.1",
-  "size": 1047952,
+  "size": 1051072,
   "chunk_size": 16384,
-  "total_chunks": 64,
+  "total_chunks": 65,
   "header_size": 20,
   "trailer_size": 4,
   "magic": "0x4F544132",
@@ -70,7 +70,8 @@
     "chunk_0060.bin",
     "chunk_0061.bin",
     "chunk_0062.bin",
-    "chunk_0063.bin"
+    "chunk_0063.bin",
+    "chunk_0064.bin"
   ],
-  "sha256": "eac322643a610abbb8ef3f5a228bab3aca3dead638f578f875447f7247b8c997"
+  "sha256": "a03694cee59f3a4bfa02e41fd5ae839291e962bb2e36d790e670b50c3fc84122"
 }
