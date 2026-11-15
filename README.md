@@ -9,4 +9,4 @@ Supported SoC/MCU:
 Step for updating firmware:
 - compile & get new binary or hex file
 - replace old binary/hex file by the new one
-- update version in firmware_infor.json file
+
