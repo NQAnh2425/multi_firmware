@@ -1,0 +1,27 @@
+{
+  "version": "1.0.3",
+  "target": "esp32",
+  "size": 223664,
+  "chunk_size": 16384,
+  "total_chunks": 14,
+  "header_size": 20,
+  "trailer_size": 4,
+  "magic": "0x4F544132",
+  "chunks": [
+    "chunk_0000.bin",
+    "chunk_0001.bin",
+    "chunk_0002.bin",
+    "chunk_0003.bin",
+    "chunk_0004.bin",
+    "chunk_0005.bin",
+    "chunk_0006.bin",
+    "chunk_0007.bin",
+    "chunk_0008.bin",
+    "chunk_0009.bin",
+    "chunk_0010.bin",
+    "chunk_0011.bin",
+    "chunk_0012.bin",
+    "chunk_0013.bin"
+  ],
+  "sha256": "22e914420d00a44528b6411528fda9d0787bb32a99824ad3396484eb570c9356"
+}
